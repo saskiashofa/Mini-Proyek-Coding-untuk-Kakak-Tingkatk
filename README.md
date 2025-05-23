@@ -9,7 +9,7 @@
 - Nama: Syifa Raudhatul Jannah
 - Angkatan: 2022
 - Program Studi: Pendidikan Sistem dan Teknologi Informasi (PSTI)
-- 
+
 ## 💡 Permintaan Program 
 > "Teh syifa ingin dibuatkan sebuah program TrackDiary, program ini dibuat untuk mencatat diary harian dan menampilkan respon kata-kata penyemangat sesuai mood." 
 
